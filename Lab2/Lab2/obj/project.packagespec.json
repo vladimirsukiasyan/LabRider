@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/vladimir/RiderProjects/LaboratoriesC#/Lab2/Lab2.csproj",
+    "projectUniqueName": "/home/vladimir/RiderProjects/LabRider/Lab2/Lab2/Lab2.csproj",
     "projectName": "Lab2",
-    "projectPath": "/home/vladimir/RiderProjects/LaboratoriesC#/Lab2/Lab2.csproj",
-    "outputPath": "/home/vladimir/RiderProjects/LaboratoriesC#/Lab2/obj/",
+    "projectPath": "/home/vladimir/RiderProjects/LabRider/Lab2/Lab2/Lab2.csproj",
+    "outputPath": "/home/vladimir/RiderProjects/LabRider/Lab2/Lab2/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/share/dotnet/sdk/NuGetFallbackFolder"

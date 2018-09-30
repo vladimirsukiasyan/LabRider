@@ -1,6 +1,6 @@
 namespace Lab2
 {
-    class Rectangle: Figure, IPrint
+    class Rectangle: Figure
     {
         public Rectangle(double length, double width)
         {
@@ -19,11 +19,6 @@ namespace Lab2
         public override string ToString()
         {
             return "Длина прямоугольника = "+length+"; Ширина прямоугольника = "+width+"; Площадь = "+area();
-        }
-
-        public string Print()
-        {
-            return ToString();
         }
     }
 }

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/vladimir/RiderProjects/LaboratoriesC#/Lab2/Lab2.csproj",
+      "projectUniqueName": "/home/vladimir/RiderProjects/LabRider/Lab2/Lab2/Lab2.csproj",
       "projectName": "Lab2",
-      "projectPath": "/home/vladimir/RiderProjects/LaboratoriesC#/Lab2/Lab2.csproj",
+      "projectPath": "/home/vladimir/RiderProjects/LabRider/Lab2/Lab2/Lab2.csproj",
       "packagesPath": "/home/vladimir/.nuget/packages/",
-      "outputPath": "/home/vladimir/RiderProjects/LaboratoriesC#/Lab2/obj/",
+      "outputPath": "/home/vladimir/RiderProjects/LabRider/Lab2/Lab2/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

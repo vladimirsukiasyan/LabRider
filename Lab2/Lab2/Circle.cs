@@ -2,7 +2,7 @@ using System;
 
 namespace Lab2
 {
-    class Circle : Figure, IPrint
+    class Circle : Figure
     {
         public double radius { get; set; }
 
@@ -19,11 +19,6 @@ namespace Lab2
         public override string ToString()
         {
             return "Радиус круга = " + radius + "; Площадь = " + area();
-        }
-
-        public string Print()
-        {
-            return ToString();
         }
     }
 }

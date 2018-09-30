@@ -21,7 +21,7 @@ namespace Lab2
             
             foreach (var print in prints)
             {
-                Console.WriteLine(print.Print());
+                print.Print();
             }
         }
     }
