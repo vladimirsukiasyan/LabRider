@@ -1,0 +1,11 @@
+/home/vladimir/RiderProjects/Lab3/Lab3/bin/Debug/netcoreapp2.1/Lab3.deps.json
+/home/vladimir/RiderProjects/Lab3/Lab3/bin/Debug/netcoreapp2.1/Lab3.runtimeconfig.json
+/home/vladimir/RiderProjects/Lab3/Lab3/bin/Debug/netcoreapp2.1/Lab3.runtimeconfig.dev.json
+/home/vladimir/RiderProjects/Lab3/Lab3/bin/Debug/netcoreapp2.1/Lab3.dll
+/home/vladimir/RiderProjects/Lab3/Lab3/bin/Debug/netcoreapp2.1/Lab3.pdb
+/home/vladimir/RiderProjects/Lab3/Lab3/obj/Debug/netcoreapp2.1/Lab3.csprojAssemblyReference.cache
+/home/vladimir/RiderProjects/Lab3/Lab3/obj/Debug/netcoreapp2.1/Lab3.csproj.CoreCompileInputs.cache
+/home/vladimir/RiderProjects/Lab3/Lab3/obj/Debug/netcoreapp2.1/Lab3.AssemblyInfoInputs.cache
+/home/vladimir/RiderProjects/Lab3/Lab3/obj/Debug/netcoreapp2.1/Lab3.AssemblyInfo.cs
+/home/vladimir/RiderProjects/Lab3/Lab3/obj/Debug/netcoreapp2.1/Lab3.dll
+/home/vladimir/RiderProjects/Lab3/Lab3/obj/Debug/netcoreapp2.1/Lab3.pdb
