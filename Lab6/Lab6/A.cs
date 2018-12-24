@@ -8,8 +8,10 @@ namespace Lab6
 {
     class A
     {
+        [MyAttributed("Attributed")]
         public int PropertyInt { get; set; }
         public double PropertyDouble { get; set; }
+        [MyAttributed("Attributed")]
         public string PropertyString { get; set; }
 
         public A(int propertyInt, double propertyDouble, string propertyString)
